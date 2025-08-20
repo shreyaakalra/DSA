@@ -1,4 +1,4 @@
-// inorder traversal : left right root
+// inorder traversal : left root right
 // TC : O(n)
 // SC : O(n)
 
